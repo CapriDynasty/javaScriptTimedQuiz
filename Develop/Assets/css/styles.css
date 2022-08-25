@@ -11,3 +11,15 @@
 #submit {
     padding: auto;
 }
+
+#highScoresBody {
+    background-color: palegreen;
+}
+
+.highScoreTitle {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 100px;
+
+}
