@@ -128,12 +128,12 @@ const question = [
     },
 
     {
-        question: 'Which event occurs when the user clicks on an HTML element?',
+        question: 'Whats a Boolean?',
         answers: [
-            { text: 'onmouseover', correct: false },
-            { text: 'onmouseclick', correct: false },
-            { text: 'onchange', correct: false },
-            { text: 'onclick', correct: true },
+            { text: 'obinary varible, that stands for neither true or false', correct: false },
+            { text: 'an array', correct: false },
+            { text: 'a variable that does nothing', correct: false },
+            { text: 'binary variable, having a true or false value', correct: true },
 
         ]
     },
